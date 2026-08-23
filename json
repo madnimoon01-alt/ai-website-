@@ -1,0 +1,53 @@
+[
+  {
+    "id": "charger",
+    "make": "Dodge",
+    "model": "Charger SRT Hellcat",
+    "year": 2023,
+    "class": "Muscle",
+    "tagline": "American thunder, four doors wide.",
+    "price": "$74,995",
+    "image": "images/charger.jpg",
+    "specs": {
+      "power": "717 hp",
+      "torque": "656 lb-ft",
+      "zeroToSixty": "3.6 s",
+      "topSpeed": "196 mph"
+    },
+    "description": "A supercharged 6.2L HEMI V8 wrapped in a body built to carry the whole family into the quarter-mile."
+  },
+  {
+    "id": "f150",
+    "make": "Ford",
+    "model": "F-150 Raptor",
+    "year": 2023,
+    "class": "Truck",
+    "tagline": "Built for the desert, tuned for the street.",
+    "price": "$78,140",
+    "image": "images/f150.jpg",
+    "specs": {
+      "power": "450 hp",
+      "torque": "510 lb-ft",
+      "zeroToSixty": "5.1 s",
+      "topSpeed": "118 mph"
+    },
+    "description": "High-speed desert suspension and a twin-turbo V6 make this the truck that laughs at rough terrain."
+  },
+  {
+    "id": "nsx",
+    "make": "Honda",
+    "model": "NSX Type S",
+    "year": 2022,
+    "class": "Supercar",
+    "tagline": "Precision engineering, hybrid heart.",
+    "price": "$169,500",
+    "image": "images/nsx.jpg",
+    "specs": {
+      "power": "600 hp",
+      "torque": "492 lb-ft",
+      "zeroToSixty": "2.9 s",
+      "topSpeed": "191 mph"
+    },
+    "description": "A twin-turbo V6 hybrid supercar drivetrain, hand-built in Ohio, engineered for razor-sharp control."
+  }
+]
